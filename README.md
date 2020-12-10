@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 <!--
-**kawedi/kawedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**kawedi/kawedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. :mortar_board: 
+https://github.com/caiyongji/emoji-list#symbols 
 -->
 
-🔭 I am currently working on a password generator for Intelligen't, a competitive cybersecurity team at Rochester Institute of Technology.
+:computer: I am currently working on a password generator for Intelligen't, a competitive cybersecurity team at Rochester Institute of Technology.
 
-:books: I am an first-year, honors student at Rochester Institute of Technology. I am dual-majoring in Computing Security, and Computer Science. I am also minoring in Free and Open Source Software. 
+:notebook: I am an first-year, honors student at Rochester Institute of Technology. I am dual-majoring in Computing Security, and Computer Science. I am also minoring in Free and Open Source Software. 
 
 👯 I am looking to collaborate on RITSEC presentations! Please reach out to me if you are interested in co-presenting. 
 
@@ -19,6 +20,6 @@
 
 😄 Pronouns: She/Her/Hers
 
-⚡ Fun fact: I have a [blog][blog] where I write about academics, and occupational growth.  
+:sailboat: Fun fact: I have a [blog][blog] where I write about academics, athletics, and occupational growth.  
 
 [blog]: https://oliviagallucci.home.blog/ 
