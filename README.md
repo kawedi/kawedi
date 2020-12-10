@@ -19,4 +19,6 @@
 
 - 😄 Pronouns: She/Her/Hers
 
-- ⚡ Fun fact: I have a blog where I write about academics and occupational growth.  
+- ⚡ Fun fact: I have a [blog][blog] where I write about academics and occupational growth.  
+
+[blog]: https://oliviagallucci.home.blog/ 
