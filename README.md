@@ -6,6 +6,10 @@ https://github.com/caiyongji/emoji-list#symbols :sailboat:
 https://github.com/ikatyang/emoji-cheat-sheet
 -->
 
+<!--
+put in an image/logo/banner 
+-->
+
 :star2: I am currently working on a password generator for Intelligen't, a competitive cybersecurity team at Rochester Institute of Technology.
 
 :mortar_board: I am an first-year, honors student at Rochester Institute of Technology. I am dual-majoring in Computing Security, and Computer Science. I am also minoring in Free and Open Source Software. 
