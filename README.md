@@ -17,7 +17,7 @@ put in an image/logo/banner
 :chart_with_upwards_trend: I am looking to collaborate on RITSEC presentations! Please reach out to me if you are interested in co-presenting. 
 
 <!--
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... semster finding reasearch positions 
 -->
 
 :open_book: Ask me about what I am [reading][reading]. 
