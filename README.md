@@ -1,8 +1,8 @@
 ### Hi there!
 
 <!--
-**kawedi/kawedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  :brain: :notebook:
-https://github.com/caiyongji/emoji-list#symbols :sailboat:
+**kawedi/kawedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.   :notebook: :star2:
+https://github.com/caiyongji/emoji-list#symbols :sailboat: :hibiscus:
 https://github.com/ikatyang/emoji-cheat-sheet
 -->
 
@@ -10,7 +10,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 put in an image/logo/banner 
 -->
 
-:star2: I am currently working on a password generator for Intelligen't, a competitive cybersecurity team at Rochester Institute of Technology.
+:brain: I am currently working on a password generator for Intelligen't, a competitive cybersecurity team at Rochester Institute of Technology.
 
 :mortar_board: I am an first-year, honors student at Rochester Institute of Technology. I am dual-majoring in Computing Security, and Computer Science. I am also minoring in Free and Open Source Software. 
 
@@ -22,7 +22,7 @@ put in an image/logo/banner
 
 :open_book: Ask me about what I am reading. 
 
-📫 How to reach me: gallucci@protonmail.com
+:cherry_blossom: How to reach me: gallucci@protonmail.com
 
 :white_heart: Pronouns: She/Her/Hers
 
