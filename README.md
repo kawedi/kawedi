@@ -20,7 +20,7 @@ put in an image/logo/banner
 - 🤔 I’m looking for help with ...
 -->
 
-:open_book: Ask me about what I am reading. 
+:open_book: Ask me about what I am [reading][reading]. 
 
 :cherry_blossom: How to reach me: gallucci@protonmail.com
 
@@ -29,3 +29,4 @@ put in an image/logo/banner
 :black_nib: Fun fact: I have a [blog][blog] where I write about academics, athletics, and occupational growth.  
 
 [blog]: https://oliviagallucci.home.blog/ 
+[reading]: https://oliviagallucci.home.blog/2020/06/17/reading-list/
