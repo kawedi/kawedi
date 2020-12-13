@@ -24,7 +24,7 @@ put in an image/logo/banner
 
 📫 How to reach me: gallucci@protonmail.com
 
-:purple_heart: Pronouns: She/Her/Hers
+:white_heart: Pronouns: She/Her/Hers
 
 :black_nib: Fun fact: I have a [blog][blog] where I write about academics, athletics, and occupational growth.  
 
