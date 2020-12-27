@@ -12,7 +12,7 @@ put in an image/logo/banner
 
 :brain: I am currently working on a password generator for Intelligen't, a competitive cybersecurity team at Rochester Institute of Technology.
 
-:mortar_board: I am an first-year, honors student at Rochester Institute of Technology. I am dual-majoring in Computing Security, and Computer Science. I am also minoring in Free and Open Source Software. 
+:mortar_board: I am a first-year, honors student at Rochester Institute of Technology. I am dual-majoring in Computing Security, and Computer Science. I am also minoring in Free and Open Source Software. 
 
 :chart_with_upwards_trend: I am looking to collaborate on RITSEC presentations! Please reach out to me if you are interested in co-presenting. 
 
