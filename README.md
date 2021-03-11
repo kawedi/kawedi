@@ -28,5 +28,5 @@ put in an image/logo/banner
 
 :black_nib: Fun fact: I have a [blog][blog] where I write about academics, athletics, and occupational growth.  
 
-[blog]: https://oliviagallucci.home.blog/ 
-[reading]: https://oliviagallucci.home.blog/2020/06/17/reading-list/
+[blog]: https://oliviagallucci.com/ 
+[reading]: https://oliviagallucci.com/2020/06/17/reading-list/
