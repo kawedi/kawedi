@@ -12,7 +12,7 @@ put in an image/logo/banner
 
 :brain: I am currently working on a password generator for Intelligen't, a competitive cybersecurity team at Rochester Institute of Technology.
 
-:mortar_board: I am a first-year, honors student at Rochester Institute of Technology. I am dual-majoring in Computing Security, and Computer Science. I am also minoring in Free and Open Source Software. 
+:mortar_board: I am a second-year, honors student at Rochester Institute of Technology. I am dual-majoring in Computing Security, and Computer Science. I am also minoring in Free and Open Source Software and Free Culture. 
 
 :chart_with_upwards_trend: I am looking to collaborate on RITSEC presentations! Please reach out to me if you are interested in co-presenting. 
 
@@ -29,4 +29,4 @@ put in an image/logo/banner
 :black_nib: Fun fact: I have a [blog][blog] where I write about academics, athletics, and occupational growth.  
 
 [blog]: https://oliviagallucci.com/ 
-[reading]: https://oliviagallucci.com/2020/06/17/reading-list/
+[reading]: https://oliviagallucci.com/reading-list/
